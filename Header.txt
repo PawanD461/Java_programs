@@ -1,0 +1,150 @@
+1.Addition and multiplication of integers.
+
+2.Add and multiplication of two numbers with user input.
+
+3.User input syntax of all data type with Scanner class.
+
+4.Area of a circle using user input.
+
+5.Type/Widening/Implicit conversion, in java.
+
+6.Type casting (narrowing or explicit conversion) in java.
+
+7.Variable and data types.
+
+8.Variable and data types.
+
+9.Variable and data types.
+
+10.Variable and data types.
+
+11.Types of operator .
+
+12.OPERATORS .
+
+13.OPERATORS .
+
+14.OPERATORS .
+
+15.OPERATORS .
+
+16.OPERATORS .
+
+17.print a number is odd or even.
+
+18.else if statement .
+
+19.Income tax claculate.
+
+20.Largest among three numbers .
+
+21.odd or Even check using tenary Operator.
+
+22.Number pattern 1
+    1 
+   2 2 
+  3 3 3 
+ 4 4 4 4 
+5 5 5 5 5 
+
+23.Pattern 2
+A 
+B C
+D E F
+G H I J
+K L M N O
+
+24.Pattern 3
+
+* * * * *
+*       *
+*       *
+* * * * *
+
+25.Function or method program.
+
+26.Functions with parameters and function call with argument pass.
+
+27.Function Overloading .
+
+28.Array Basic and array as function arguments.
+
+29.Linear Search code with Function creation.
+
+30.Largest element in Array.
+
+31.Smalest element in Array.
+
+32.Binary Search in Array.
+
+33.Bouble Short .
+
+34.Selection sort in increasing order.
+
+35.Selection sort in decreasing order.
+
+36.Insertion sort method  in Ascending order .
+
+37.Inbuilt sort in Ascending order in  java .
+
+38.Inbuilt sort in descending order in  java .
+
+39.Search an element is exist in this matrix or not .
+
+40. Class And Object Creating and also function call.
+
+41.Constuctors.
+
+42.Single Level Inheritance.
+
+43.Multilevel  Inheritance.  
+
+44.Hirarchical inheritance.
+
+45.Using Recursion print 1 to n numbers in decreasing order.
+
+46.Using Recursion print 1 to n numbers in Increasing order.
+
+47.Factorial of a given number using Recursion.
+
+48.Sum of first natural numbers using Recursion.
+
+49.Fibonacci series print upto nth term using Recursion.
+
+50.Fibonacci series method 2 Using Recursion.
+
+51.Copy Constructor, Parameterized Constructort, Copy Constructor.
+
+52.Method Overriding .
+
+53.Star Pattern Rhombus
+        *****
+       *****
+      *****
+     *****
+    *****
+
+54.Star Pattern Void Rhombus 
+        *****
+       *   *
+      *   *
+     *   *
+    *****
+
+55.Diamond Pattern
+   *
+  ***
+ *****
+*******
+*******
+ *****
+  ***
+   *
+
+56.Pair count in Array.
+
+57.All expexted Subarrays in a single array.
+
+58.All expexted Subarrays and their sum in a single array.
+
+59.Addition of two Sauare Matrix.
