@@ -1,5 +1,4 @@
 
-
 /* Variable and data types */
 import java.util.*;
 public class no8{
