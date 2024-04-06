@@ -6,7 +6,7 @@ public class no63{
 
     public static int facto(int n) {       
       
-        if(n==1){
+        if(n==0){
             System.out.print(n + "*");
             return 1;
         }
