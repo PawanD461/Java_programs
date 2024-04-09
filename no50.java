@@ -1,3 +1,5 @@
+//RECURSION
+
 /* Fibonacci series method 2 Using Recursion */
 
 import java.util.*;
@@ -16,7 +18,6 @@ class no50{
             return fb;
         }
     }
-
 
     public static void main (String args[]) {
         Scanner s = new Scanner (System.in); 
