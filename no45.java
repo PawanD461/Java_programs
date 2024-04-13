@@ -1,6 +1,6 @@
 /* Using Recursion print 1 to n numbers in decreasing order */
 
-import java.util.*;
+import java.util.Scanner;
 class no45 {
    static void printfunction(int n) {
         if(n==1){
