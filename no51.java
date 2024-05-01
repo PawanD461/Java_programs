@@ -1,7 +1,7 @@
 /* Copy Constructor, Parameterized Constructort, Copy Constructor */
 
 
- class no51{
+public class no51{
     public static void main(String args[]) {
         Student d = new Student();
         
@@ -19,7 +19,7 @@
     }
 }
 
-public class Student{
+class Student{
     int roll;
     String password,name;
 
